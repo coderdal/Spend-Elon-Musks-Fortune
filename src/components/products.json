@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "Big Mac",
+    "price": 3.5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToMOMUs85eAEnXbMs1PLVwKehpyF_wpSG7wg&usqp=CAU"
+  },
+  {
+    "id": 2,
+    "name": "Coke",
+    "price": 1.5,
+    "image": "https://ayb.akinoncdn.com/products/2019/01/18/1796/b792f041-5479-4d5f-a74e-233d5da474bc_size780x780_quality60_cropCenter.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Air Jordan",
+    "price": 180,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMPuRAVabbgZwxxGZpv7-tzH18jK7Nb8gcHQ&usqp=CAU"
+  },
+  {
+    "id": 4,
+    "name": "iPad Pro",
+    "price": 1700,
+    "image": "https://cdn.cimri.io/image/1000x1000/appleipadprogb_491928407.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Cinema Ticket",
+    "price": 8.5,
+    "image": "https://static.vecteezy.com/system/resources/previews/001/189/271/non_2x/tickets-png.png"
+  },
+  {
+    "id": 6,
+    "name": "Airpods Pro",
+    "price": 159,
+    "image": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/airpods-pro-tip-sizes.png"
+  },
+  {
+    "id": 7,
+    "name": "Playstation 5",
+    "price": 347.5,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/sony/thumb/108445-ek3_large.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Netflix Yearly",
+    "price": 147.2,
+    "image": "https://kiralikmobiljenerator.org/img/reference/netflix-logo-text-emblem-31.png"
+  },
+  {
+    "id": 9,
+    "name": "Spotify Yearly",
+    "price": 130,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmTTd6TWOSYV8a9XlYJgzkVxfpmIojE-T1g5rKqElOvsEd0syveAwXURKrnN_f9q1-Ftw&usqp=CAU"
+  },
+  {
+    "id": 10,
+    "name": "Bike",
+    "price": 730,
+    "image": "https://cdn.picpng.com/bicycles/bicycles-view-35950.png"
+  },
+  {
+    "id": 11,
+    "name": "Macbook",
+    "price": 8250,
+    "image": "https://pngimg.com/uploads/macbook/macbook_PNG52.png"
+  },
+  {
+    "id": 12,
+    "name": "Motorcycle",
+    "price": 9500,
+    "image": "https://purepng.com/public/uploads/large/purepng.com-yellow-triumphmotorcyclemotorbikebikevehicleyellow-triumph-981525159643zqslp.png"
+  },
+  {
+    "id": 13,
+    "name": "Milk",
+    "price": 4.2,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjOWD3i0NJ4G29H2n9jHxF_pgK6J4kdFqrPA&usqp=CAU"
+  },
+  {
+    "id": 14,
+    "name": "Barcelona",
+    "price": 15000000,
+    "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/9/96/FCB.svg/1200px-FCB.svg.png"
+  },
+  {
+    "id": 15,
+    "name": "Diamond",
+    "price": 18590000,
+    "image": "https://www.lifepng.com/wp-content/uploads/2021/04/Classic-Diamond-png-hd.png"
+  },
+  {
+    "id": 16,
+    "name": "Iphone 13 Pro Max",
+    "price": 1900,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1644969385433"
+  },
+  {
+    "id": 17,
+    "name": "Skyscraper",
+    "price": 95609000,
+    "image": "http://atlas-content-cdn.pixelsquid.com/stock-images/skyscraper-building-mr3oAN2-600.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Ferrari",
+    "price": 3790000,
+    "image": "https://i2.wp.com/gtautoperformance.com/wp-content/uploads/2016/01/2016-Ferrari-488GTB-Exterior-Full-Front.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Tank",
+    "price": 12950000,
+    "image": "https://static.wixstatic.com/media/2cd43b_1bbdf7bc992c4dd38d8705d86e65ea91~mv2_d_2382_1703_s_2.png/v1/fill/w_320,h_229,q_90/2cd43b_1bbdf7bc992c4dd38d8705d86e65ea91~mv2_d_2382_1703_s_2.png"
+  },
+  {
+    "id": 20,
+    "name": "Gold Bar",
+    "price": 62000,
+    "image": "http://atlas-content-cdn.pixelsquid.com/stock-images/gold-bars-pile-bar-v10KoGB-600.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Rolex",
+    "price": 80000,
+    "image": "https://www.freepngimg.com/thumb/watch/22801-2-rolex-watch-image.png"
+  },
+  {
+    "id": 22,
+    "name": "Yacht",
+    "price": 7500000,
+    "image": "https://www.pikpng.com/pngl/b/44-441904_yacht-png-transparent-file-transparent-yacht-png-clipart.png"
+  },
+  {
+    "id": 23,
+    "name": "Formula 1 Car",
+    "price": 15750000,
+    "image": "https://pngimg.com/uploads/formula_1/formula_1_PNG29.png"
+  },
+  {
+    "id": 24,
+    "name": "Twitter",
+    "price": 44000000000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png"
+  },
+  {
+    "id": 25,
+    "name": "Helicopter",
+    "price": 15000000,
+    "image": "https://pngimg.com/uploads/helicopter/helicopter_PNG80040.png"
+  },
+  {
+    "id": 26,
+    "name": "Mona Lisa",
+    "price": 2000000000,
+    "image": "https://render.fineartamerica.com/images/rendered/square-product/small/images/artworkimages/mediumlarge/1/monalisa-with-white-background-sushil-deokar.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Camaro",
+    "price": 194000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLNu8VFY1IOh6YTdjRESmmxFfy8HIQwlXfcA&usqp=CAU"
+  },
+  {
+    "id": 28,
+    "name": "Boeing 747",
+    "price": 146000000,
+    "image": "https://t3.ftcdn.net/jpg/01/73/01/74/360_F_173017473_xRG5TrDyf7elY5PPC7Xt89Ar3imtHwF4.jpg"
+  }
+]

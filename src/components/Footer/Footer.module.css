@@ -1,0 +1,83 @@
+.footer {
+  width: 100%;
+  padding: 30px 50px;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+}
+
+.top {
+  text-align: center;
+}
+
+.clear {
+  padding: 10px 20px;
+  border-radius: 3px;
+  font-size: 1.1em;
+  border: 1px solid #cddd;
+  background: #ddd;
+  cursor: pointer;
+}
+
+.bill {
+  margin: 20px 0px;
+}
+
+.bill ul {
+  list-style: none;
+  text-align: right;
+}
+
+.bill ul li {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  padding: 5px;
+  border-bottom: 1px solid #ccc;
+}
+
+.bill ul li span {
+  width: 33%;
+}
+
+.bill ul li span:nth-child(1) {
+  text-align: left;
+  margin-left: 10px;
+}
+
+.bill ul li span:nth-child(2) {
+  text-align: center;
+}
+
+.bill ul li span:nth-child(3) {
+  font-weight: 600;
+}
+
+.bottom {
+  margin: 20px 0px;
+  font-size: 1.1em;
+  color: rgba(0, 0, 0, 0.808);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.bottom a {
+  text-decoration: none;
+  color: #000;
+}
+
+.developer {
+  display: flex;
+  gap: 10px;
+}
+
+.developer svg {
+  width: 50px;
+  height: 50px;
+  transition: 300ms all ease-in;
+}
+
+.developer svg:hover {
+  fill: rgb(54, 54, 54);
+}
