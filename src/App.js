@@ -10,7 +10,7 @@ import products from "./components/products.json";
 import Footer from "./components/Footer/Footer";
 
 function App() {
-  const [money, setMoney] = useState(265000000000);
+  const [money, setMoney] = useState(251000000000);
 
   const [basket, setBasket] = useState([]);
 

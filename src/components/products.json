@@ -9,7 +9,7 @@
     "id": 2,
     "name": "Coke",
     "price": 1.5,
-    "image": "https://ayb.akinoncdn.com/products/2019/01/18/1796/b792f041-5479-4d5f-a74e-233d5da474bc_size780x780_quality60_cropCenter.jpg"
+    "image": "https://kentstreetcellars.com.au/cdn/shop/files/coke-can_bfd0ad2d-c328-4348-b9ad-9484f8405d03_1000x1000.png?v=1720742026"
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
     "id": 10,
     "name": "Bike",
     "price": 730,
-    "image": "https://cdn.picpng.com/bicycles/bicycles-view-35950.png"
+    "image": "https://pedegoelectricbikes.ca/wp-content/uploads/2022/07/Pedego-Avenue-Step-Thru-in-Ocean-Teal.jpg"
   },
   {
     "id": 11,
@@ -81,13 +81,13 @@
     "id": 14,
     "name": "Barcelona",
     "price": 15000000,
-    "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/9/96/FCB.svg/1200px-FCB.svg.png"
+    "image": "https://upload.wikimedia.org/wikipedia/tr/4/47/FC_Barcelona.png"
   },
   {
     "id": 15,
     "name": "Diamond",
     "price": 18590000,
-    "image": "https://www.lifepng.com/wp-content/uploads/2021/04/Classic-Diamond-png-hd.png"
+    "image": "https://docs.growndiamondcorp.com/blog/types-of-diamonds.png"
   },
   {
     "id": 16,
@@ -139,9 +139,9 @@
   },
   {
     "id": 24,
-    "name": "Twitter",
+    "name": "X (Bought :))",
     "price": 44000000000,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpevfm2P0BtgC9LbXH1n2Xp-oR-iLX8xQTBg&s"
   },
   {
     "id": 25,
